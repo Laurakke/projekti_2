@@ -8,5 +8,3 @@
 
 <?php include("forms/fprofiili.php");
 ?>
-<?php include("includes/ifooter.php");
-?>

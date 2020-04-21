@@ -6,6 +6,4 @@
 <?php
 
 ?>
-<?php include("includes/ifooter.php");
-?>
 

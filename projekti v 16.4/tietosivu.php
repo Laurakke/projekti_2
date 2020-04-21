@@ -56,11 +56,3 @@
 </table>
 </div>
  <br>
-
-
-
-
-
- 
-<?php include("includes/ifooter.php");
-?>
